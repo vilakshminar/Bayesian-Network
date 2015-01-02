@@ -1,4 +1,4 @@
-Bayesian-Network
-================
+BN
+==
 
-Bayesian Network Implmentation for solving word crosser
+Bayesian Network implementation for word crosser
